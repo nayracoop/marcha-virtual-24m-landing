@@ -125,7 +125,7 @@ span.url{
     body {
         background-size: 900px, auto 100%;
         padding: 25px;
-        height: calc(100vh - 50px);
+        height: calc(100vh - 150px);
         background-position: center 120%, center center;
     }
     .container {
@@ -149,8 +149,9 @@ span.url{
     body {
         padding: 25px 20px;
         height: calc(100vh - 50px);
-        background-position: 45% calc(100% - 41px), center center;
+        background-position: 45% calc(100% - 28px), center center;
         background-size: 700px, auto 100%;
+        padding-bottom: 25%;
     }
     .container {
         min-height: calc(100vh - 50px);
@@ -160,11 +161,11 @@ span.url{
         margin: 15px auto;
     }
     .main-section h1 {
-        font-size: 1.5rem;
+        font-size: 1.7rem;
         line-height: 1.1;
     }
     .main-section .lead {
-        font-size: 1.125rem;
+        font-size: 1em;
         line-height: 1.25;
         margin: 20px auto;
     }
